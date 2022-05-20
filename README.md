@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diego-Angeles-Ake
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end libraries
+- 🌱 I’m currently learning back-end development with express
 - 💞️ I’m looking to collaborate on web dev projects
 
 <!---
